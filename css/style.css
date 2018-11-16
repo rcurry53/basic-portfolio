@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+header{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.about{
+    float: left;
+}
+
+.nav{
+    float: left;
+}
